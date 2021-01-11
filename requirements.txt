@@ -1,0 +1,5 @@
+pandas==1.0.3
+pillow==2.1.0
+mapclassify==2.4.0
+descartes==1.1.0
+geopandas==0.8.0
